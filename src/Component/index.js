@@ -4,7 +4,7 @@ import "./CSS/Index.css";
 const index = () => {
     return (
       <div id="index">
-       <div><img id="index_img" align="left" src="http://vivivicdjdk.github.io/image/findingNemo.png" alt="니모를 찾아서" /></div> 
+       <div><img id="index_img" align="left" src=" https://vivivicdjdk.github.io/midterm/image/findingNemo.png" alt="니모를 찾아서" /></div> 
       <div id="text-box"align="right">
         <p>When if gets yot down,<br/>
           do you wanna know what you've gotta do?</p>

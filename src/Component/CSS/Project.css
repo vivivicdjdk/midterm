@@ -1,0 +1,20 @@
+#project{
+    margin-left: 20px;
+    padding:20px;
+  }
+h2{
+  color:#303b4c;
+  font-weight: bold;
+}
+fieldset{
+  border-radius: 5%;
+  border:2px solid #FECCBE;
+}
+legend{
+  color:#303b4c;
+  padding:10px;
+}
+#pro-img{
+    width: 500px;
+    height:300px;
+  }

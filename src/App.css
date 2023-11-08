@@ -1,0 +1,121 @@
+@font-face {
+  font-family: 'yg-jalnan';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'S-CoreDream-3Light';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "yg-jalnan";
+  opacity: 0.9;
+  line-height: 1.5;
+  font-weight: bolder;
+  margin-right:50px;
+  margin-left: 50px;
+  background-color:#fffdf8;
+  }
+header {
+  text-align: center;
+  font-size: 25px;
+  background-color: none;
+  color:#303b4c;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+header:hover{
+  background-image: linear-gradient(to right, #fbeeca, #fbeeca, #FECCBE, #FECCBE);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  
+}
+
+#index{
+  margin-left : 50px; 
+}
+.container {
+  display: grid;
+  grid-template-columns: 15% 85%;
+}
+
+nav {
+  font-family: "yg-jalnan";
+  font-size: 20px;
+  background-color:  #fbeeca;
+  border:none;
+}
+#nav_img {
+  width:90%;
+  border-radius: 100%;
+  margin: 10px;
+  filter: drop-shadow(4px 6px 6px #FECCBE)
+}
+main{
+  font-family: "S-CoreDream-3Light";
+  font-size: 22px;
+  padding-left: 20px;
+  border-top: 1px solid #6181B3;
+  border-top-style: dashed;
+}
+footer {
+  font-family: "S-CoreDream-3Light";
+  font-size: 13px;
+  text-align: center;
+  opacity: 0.6;
+  background-color: #778aa7;
+  color: white;
+  padding:10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top: 1px solid #6181B3;
+}
+
+#link_index:hover, #link_index:active{
+  background-image: linear-gradient(to right, #fbeeca, #fbeeca); 
+  margin:0px;
+}
+a:link{
+  background-image: linear-gradient(to right, #fbeeca, #fbeeca); 
+  color:white;
+  text-shadow: 2px 2px 2px #818690;
+  padding: 10px 20px;
+  text-decoration:none;
+  display: block;
+  width: auto;
+  padding:20px;
+  transition-duration: 0.8s;
+}
+a:hover, a:visited { 
+  background-image: linear-gradient(to right, #fbeeca, #fbeeca, #FECCBE, #FECCBE);
+  color:white ;
+}
+a:active{
+  background-image: linear-gradient(to right, #fbeeca, #FECCBE, #FECCBE, #FECCBE);
+  color:white;
+}
+
+button {
+  font-family: "S-CoreDream-3Light";
+  color: #303b4c ;
+  font-size: 22px;
+  font-weight: bolder;
+  text-decoration: underline;
+  text-shadow: 1px 1px 1px #a5a9b1;
+  margin-top:15px;
+  margin-bottom: 0px;
+  border:none;
+  background-color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+button:hover, button:active {
+  color: #FECCBE;
+}

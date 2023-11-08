@@ -1,0 +1,22 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+
+#introduction{
+    margin: 20px;
+    padding:20px;
+    line-height: 2.5;
+  }
+
+#nemo{
+  background-color: #e5e8ee;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size:25px;
+  font-weight: bold;
+  padding: 20px;
+}
+#img{
+    width:300px;
+    border-radius:100%;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+  }

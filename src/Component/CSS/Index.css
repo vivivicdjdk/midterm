@@ -1,0 +1,21 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+
+#index{
+    background-color: #e5e8ee;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size:30px;
+    margin: 10px;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding:20px;}
+  
+#text-box{
+    padding: 20px;
+    padding-right: 200px;
+}
+#index_img{
+    margin-left: 100px;
+    width: 300px;
+    filter: drop-shadow(10px 6px 6px #8898b0);
+}

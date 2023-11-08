@@ -17,7 +17,7 @@ function App() {
 
       <div className="container">
         <nav>
-          <Link to={'/'} id="link_index"><img id="nav_img" src="https://github.com/vivivicdjdk/Myportfolio-react/blob/gh-pages/image/me.JPG" alt="나의 사진!!!"/></Link>
+          <Link to={'/'} id="link_index"><img id="nav_img" src="http://vivivicdjdk.github.io/image/me.JPG" alt="나의 사진!!!"/></Link>
           <Link to={"/introduction"}>나의 소개</Link>
           <Link to={"/project"}>프로 젝트</Link>
           <Link to={"/contact"}>Contact </Link>

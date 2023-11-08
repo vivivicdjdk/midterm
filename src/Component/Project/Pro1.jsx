@@ -2,7 +2,7 @@ const Pro1 = () => {
     return (
       <div>
         <h2>React를 이용한 Frontend Web</h2>
-        <img id="pro-img" align="left" src="https://github.com/vivivicdjdk/Myportfolio-react/blob/gh-pages/image/react.png" alt="react" />
+        <img id="pro-img" align="left" src="http://vivivicdjdk.github.io/image/react.png" alt="react" />
         <fieldset>
           <legend>프로젝트 개요</legend>
           <ul>

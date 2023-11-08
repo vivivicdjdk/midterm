@@ -4,7 +4,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-            <div><img id='img' align="left" src="https://github.com/vivivicdjdk/Myportfolio-react/blob/gh-pages/image/me.JPG" alt="나의 사진!!!" /></div>
+            <div><img id='img' align="left" src="http://vivivicdjdk.github.io/image/me.JPG" alt="나의 사진!!!" /></div>
             
             <div float="right" >
                 <ul>

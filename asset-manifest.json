@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Midterm/static/css/main.d68f6391.css",
-    "main.js": "/Midterm/static/js/main.7f4c4e1c.js",
+    "main.js": "/Midterm/static/js/main.0f089c53.js",
     "static/js/787.725cb19c.chunk.js": "/Midterm/static/js/787.725cb19c.chunk.js",
     "index.html": "/Midterm/index.html",
     "main.d68f6391.css.map": "/Midterm/static/css/main.d68f6391.css.map",
-    "main.7f4c4e1c.js.map": "/Midterm/static/js/main.7f4c4e1c.js.map",
+    "main.0f089c53.js.map": "/Midterm/static/js/main.0f089c53.js.map",
     "787.725cb19c.chunk.js.map": "/Midterm/static/js/787.725cb19c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d68f6391.css",
-    "static/js/main.7f4c4e1c.js"
+    "static/js/main.0f089c53.js"
   ]
 }

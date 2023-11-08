@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Midterm/static/css/main.d68f6391.css",
-    "main.js": "/Midterm/static/js/main.0f089c53.js",
-    "static/js/787.725cb19c.chunk.js": "/Midterm/static/js/787.725cb19c.chunk.js",
-    "index.html": "/Midterm/index.html",
-    "main.d68f6391.css.map": "/Midterm/static/css/main.d68f6391.css.map",
-    "main.0f089c53.js.map": "/Midterm/static/js/main.0f089c53.js.map",
-    "787.725cb19c.chunk.js.map": "/Midterm/static/js/787.725cb19c.chunk.js.map"
+    "main.css": "/midterm/static/css/main.d68f6391.css",
+    "main.js": "/midterm/static/js/main.27fda0d7.js",
+    "static/js/787.725cb19c.chunk.js": "/midterm/static/js/787.725cb19c.chunk.js",
+    "index.html": "/midterm/index.html",
+    "main.d68f6391.css.map": "/midterm/static/css/main.d68f6391.css.map",
+    "main.27fda0d7.js.map": "/midterm/static/js/main.27fda0d7.js.map",
+    "787.725cb19c.chunk.js.map": "/midterm/static/js/787.725cb19c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d68f6391.css",
-    "static/js/main.0f089c53.js"
+    "static/js/main.27fda0d7.js"
   ]
 }
